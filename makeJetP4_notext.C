@@ -50,7 +50,7 @@
 
 using namespace std;
 
-const bool DEBUG = false;
+const bool DEBUG = true;
 
 void makeJetP4_notext() { 
     
